@@ -1,4 +1,4 @@
-#  Mercury Clicker Pricing & Licenses
+#  NMY Clicker Pricing & Licenses
 
 All keys are automatically linked to your Hardware ID (HWID) upon first login for maximum security.
 
@@ -21,5 +21,5 @@ To purchase a key and receive your digital good instantly, please join our offic
 * Bree-B
 * Nequi
 
- **Join our Discord:** (https://discord.gg/mercuryontop)
- **Return to Main Repo:** (https://github.com/Incxgnite/mercury-autoclicker)
+ **Join our Discord:** (https://discord.gg/nmy)
+ **Return to Main Repo:** (https://github.com/Incxgnite/nmy-autoclicker)
