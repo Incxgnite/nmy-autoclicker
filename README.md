@@ -1,7 +1,7 @@
-#  Mercury Clicker v1.0
+#  NMY Clicker v1.0
 **The Ultimate Autoclicker for Minecraft Bedrock Edition**
 
-Welcome to Mercury Clicker! Designed for competitive PvP, HCF, and Practice players, Mercury offers a flawless, undetected, and highly customizable clicking experience. Say goodbye to ghost clicks and missed hits.
+Welcome to NMY Clicker! Designed for competitive PvP, HCF, and Practice players, NMY offers a flawless, undetected, and highly customizable clicking experience. Say goodbye to ghost clicks and missed hits.
 
 ###  Core Features
 * **Dual Clicker Engine:** Independent configurations for Left and Right clickers (CPS, Delay, and Binds).
@@ -11,7 +11,7 @@ Welcome to Mercury Clicker! Designed for competitive PvP, HCF, and Practice play
 * **Safe Binds:** Blocks system keys (Win, Esc, Enter) to prevent accidental tabs during intense PvP fights.
 
 ###  How to Use (Quick Guide)
-1. **Login:** Open `MercuryAuto.exe` and paste your License Key (Permanent or Booster). The client will bind to your PC automatically.
+1. **Login:** Open `NMYAuto.exe` and paste your License Key (Permanent or Booster). The client will bind to your PC automatically.
 2. **Detect Mouse:** Go to the Clicker tab and click **Detect Mouse HWID** to initialize your gaming hardware.
 3. **Configure CPS:** Set your desired CPS. The Delay (ms) will automatically synchronize for optimal hit registration in Bedrock.
 4. **Set your Binds:** Click "Bind" and press any lateral mouse button (X1/X2) or keyboard key to assign the clicker.
